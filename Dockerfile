@@ -30,7 +30,7 @@ COPY ./requirements-merged.txt $BASE_HOME$ODOO_HOME/requirements.txt
 RUN pip install -r $BASE_HOME$ODOO_HOME/requirements.txt
 
 WORKDIR $BASE_HOME$ODOO_HOME
-ADD ./src $BASE_HOME$ODOO_HOME
+#ADD ./src $BASE_HOME$ODOO_HOME
 
 #RUN set -x; \
 #	curl -o $BASE_HOME$ODOO_HOME/odoo.zip https://nightly.odoo.com/8.0/nightly/src/old/odoo_8.0.20160701.zip 
