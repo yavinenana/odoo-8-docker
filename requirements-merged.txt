@@ -86,7 +86,7 @@ pycurl
 pydot==1.2.4
 pbr==1.8.0
 pyusb==1.0.2
-psutil==5.4.7
+psutil==5.6.6
 jsonpointer==1.0
 Pygments==2.1
 pytesseract==0.2.4
