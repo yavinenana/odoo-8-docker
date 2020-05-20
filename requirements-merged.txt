@@ -71,7 +71,7 @@ vatnumber==1.2
 rsa==3.4.2
 MarkupSafe==1.0
 pytz==2018.5
-httplib2==0.10.3
+httplib2==0.18.0
 functools32==3.2.3.post2
 oauth==1.0.1
 signxml==2.5.2
