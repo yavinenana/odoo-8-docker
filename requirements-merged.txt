@@ -88,7 +88,7 @@ pbr==1.8.0
 pyusb==1.0.2
 psutil==5.4.7
 jsonpointer==1.0
-Pygments==2.1
+Pygments==2.7.4
 pytesseract==0.2.4
 pyinotify==0.9.6
 websocket-client==0.44.0
