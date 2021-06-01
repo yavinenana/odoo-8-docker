@@ -124,7 +124,7 @@ ipaddress==1.0.22
 PyYAML==3.13
 texttable==0.9.1
 enum==0.4.7
-urllib3==1.7.1
+urllib3==1.26.5
 pypng==0.0.18
 linecache2==1.0.0
 PyQRCode==1.2.1
