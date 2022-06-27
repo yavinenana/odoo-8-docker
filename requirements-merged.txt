@@ -103,7 +103,7 @@ meld3==0.6.10
 Cheetah==2.4.4
 virtualenv==15.0.1
 #reportlab==3.5.6
-reportlab==3.3.0
+reportlab==3.5.55
 lxml==4.2.4
 requirements==0.1
 simplejson==3.8.1
